@@ -223,7 +223,11 @@ This model assists astronomers in:
 **Model Version:** 1.0  
 **Last Updated:** October 2025  
 **Training Date:** October 3, 2025
-
+## 🔬 Model Photos
+![Model Diagram 1](https://drive.google.com/uc?export=view&id=1txxk53lWKdf_tNodH7NKd6q4g_Z515FC)
+![Model Diagram 2](https://drive.google.com/uc?export=view&id=1Wev3rrFpYjnIlr91ih69_uHXr04MiNUC)
+![Model Diagram 3](https://drive.google.com/uc?export=view&id=1LqLTBU_nygtPQgN5yRbLbnD3Ot-1hY_7)
+ط
 ## you can try it from here :https://nasaspace-hpzv8cgyepxswaclf2pgqt.streamlit.app/
 ## or from here : https://rfaiutt873loqsxwvuacam.streamlit.app/
 
