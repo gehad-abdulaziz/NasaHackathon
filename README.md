@@ -229,6 +229,6 @@ This model assists astronomers in:
 ![Model Diagram 1](https://drive.google.com/uc?export=view&id=1txxk53lWKdf_tNodH7NKd6q4g_Z515FC)
 ط
 ## you can try it from here :https://nasaspace-hpzv8cgyepxswaclf2pgqt.streamlit.app/
-## or from here : https://rfaiutt873loqsxwvuacam.streamlit.app/
+## or from here : https://rfaiutt873loqsxwvuacam.streamlit.app/ (May NOT work)
 
 # CosmoCrafters TEAM <3
