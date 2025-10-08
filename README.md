@@ -225,5 +225,6 @@ This model assists astronomers in:
 **Training Date:** October 3, 2025
 
 ## you can try it from here :https://nasaspace-hpzv8cgyepxswaclf2pgqt.streamlit.app/
+## or from here : https://rfaiutt873loqsxwvuacam.streamlit.app/
 
 # CosmoCrafters TEAM <3
