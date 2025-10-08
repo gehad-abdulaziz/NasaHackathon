@@ -230,6 +230,6 @@ This model assists astronomers in:
 ط
 ## you can try it from here :https://nasaspace-hpzv8cgyepxswaclf2pgqt.streamlit.app/
 ## or from here : https://rfaiutt873loqsxwvuacam.streamlit.app/ (May NOT work)
-## my Certificate:https://drive.google.com/file/d/1Q4JLNdm74SZaKfp4r5N3ubo1va3oCF84/view?usp=sharing
+## Certificate:https://drive.google.com/file/d/1Q4JLNdm74SZaKfp4r5N3ubo1va3oCF84/view?usp=sharing
 
 # CosmoCrafters TEAM <3
